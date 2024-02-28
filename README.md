@@ -1,4 +1,4 @@
-##### "Hello,World!". Eu me chamo Isabella Lorena! Seja bem-vindo!!! 👋🧬🧪
+# "Hello,World!". Eu me chamo Isabella Lorena! Seja bem-vindo!!! 👋🧬🧪
 
 PT:->Atualmente, estou cursando uma graduação em Biotecnologia na Universidade Federal da Integração Latino-Americana (Unila), uma jornada que teve início em 2019. Atualmente, possuo uma bolsa de estudos da Fundação Araucária, contribuindo ativamente para o projeto 'Predição de Peptídeos Anticancerígenos utilizando Algoritmos de Inteligência Artificial.' Minha função envolve a aplicação de algoritmos de Aprendizado de Máquina de ponta para a predição de peptídeos anticancerígenos, destacando meu compromisso com a pesquisa pioneira na convergência da Biotecnologia e Inteligência Artificial. Possuo expertise no uso de ferramentas de Inteligência Artificial, análise de dados e bioinformática.🧬🧪🔬
 
